@@ -1,26 +1,26 @@
 # Grade-Needed
 ## Problem Description
-One question I get asked frequently is "What grade do I need to get on my final to get an X in the class?" For this assignment you will be writing a program to answer that question.
+This program answers the question: "What grade do I need to get on my final to get an X in the class?" 
 
-You should ask the user for the following in this order
+You should ask the user for the following in this order:
 
-The letter grade they want to get in the class
-What percent they need to get in the class to get that grade
-(A value from 0 - 100. It may not be a whole number)
-What percent you currently have in the class
-(A value from 0 - 100. It may not be a whole number)
-The weight of the final.
-(A value from 0 - 100. It may not be a whole number)
+  - The letter grade they want to get in the class
+  - What percent they need to get in the class to get that grade (A value from 0 - 100. It may not be a whole number)
+  - What percent you currently have in the class (A value from 0 - 100. It may not be a whole number)
+  - The weight of the final.(A value from 0 - 100. It may not be a whole number)
+
+
 After gathering the above information your program should output what percent the user needs to get on the final to achieve the desired grade.
 
 ## Requirements
-Your Program must compile with the -Wall, -Werror, and -Wextra options enabled
-Use doubles and not floats for all numbers that could have a decimal point in them
-Print all double to 2 decimal places
-Assumptions
+  - Your Program must compile with the -Wall, -Werror, and -Wextra options enabled
+  - Use doubles and not floats for all numbers that could have a decimal point in them
+  - Print all double to 2 decimal places
+
+## Assumptions
 All input is valid
-Examples
-In the examples below user input has been placed in italics. You don't have to make your input italicized, it is just there to help you differentiate between what is input and what is output.
+
+# Examples
 
 ## Example 1
 Enter the grade you want in the class: B
